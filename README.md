@@ -9,8 +9,6 @@ Genio-tech: Introduce your kid to the future
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
@@ -24,7 +22,13 @@ An E-Learning platform we developed as part of our Intership Project. We built t
 
 - Video calling with chat and screen share features
 - Integrated payment using Square.
-- Optionally, include screenshots or gifs to demonstrate functionality
+- UI:
+  - ![image](https://github.com/whichfahim/GENIO-TECH/assets/31901239/6eeb6160-3e2f-49cf-b0f1-197349d0181c)
+  - ![image](https://github.com/whichfahim/GENIO-TECH/assets/31901239/1300e8a0-9bd9-4e71-bcd7-87b948c75161)
+  - ![image](https://github.com/whichfahim/GENIO-TECH/assets/31901239/909e3fd1-7ccb-4559-bf90-9fc654a2989b)
+
+
+
 
 ## Installation
 
@@ -32,17 +36,6 @@ pip install requirements.txt
 
 You can run the app using a django server. 
 
-## Usage
-
-Provide examples or instructions for how to use your project. Include code snippets, command-line examples, or screenshots to demonstrate usage. Make sure to cover common workflows or use cases.
-
-## Contributing
-
-Explain how others can contribute to your project. This can include guidelines for submitting bug reports, feature requests, or pull requests. Be sure to include information on coding standards, testing procedures, and any other relevant details.
-
 ## License
 
-Include information about the license for your project. Specify the type of license you're using (e.g., MIT, Apache 2.0) and provide a brief summary of what users can and cannot do with your project under that license.
-
-
-pip install django_countries
+Standard MIT License
